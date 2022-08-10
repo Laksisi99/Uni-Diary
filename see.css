@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'poppins', sans-serif;
+    box-sizing: border-box;
+}
+
+.main{
+    background-color:  hsl(249, 86%, 48%);
+    min-height: 100vh;
+    width: 100%;
+    color: whitesmoke;
+    position: absolute;
+}
+
+.page {
+    font-size: 25px;
+    font-weight: bold;
+    padding-top: 40px;
+}
+
+.Academic {
+    border: 1px solid black;
+}
+
+table {
+    border: 1px solid black;
+    width: 100%;
+}
+
+td, th {
+    text-align:left;
+    padding: 8px;
+}
